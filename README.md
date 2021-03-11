@@ -9,7 +9,7 @@ Feature selection based on geometric distance for high-dimensional data. Electr
 
 ### Distance measurement method of Feature subset
 
-<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7082bb7-feed-49ae-a36e-664202ab4004/Untitled.png"></img><br/>
+![equ3](https://user-images.githubusercontent.com/49013650/110815880-2de83a80-82ce-11eb-803c-e236b53ef36a.png)
 
 ### A. Inter-class distance : $D_B(X_Q)$
 
