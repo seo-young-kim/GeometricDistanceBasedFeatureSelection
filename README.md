@@ -10,7 +10,7 @@ Feature selection based on geometric distance for high-dimensional data. Electr
 
 ## Distance measurement method of Feature subset
 Feature subset Xq에 대한 측정 S(X_Q)는 두가지 기하학 거리를 곱해 이루어 진다.  
-$$S_gdfs(X_Q) = D_B(X_Q) * E $$
+$$ S_gdfs(X_Q) = D_B(X_Q) * E $$
 ### Inter-class distanc
 첫번째로 해당 Feature subspace에서의 class 간 거리에 의해 이루어진다.  
 그림을 참고했을때 클래스 중심간 거리가 멀수록, 그리고 클래스 내부분산이 작을 수록 쉽게 분류되리라 예쌍된다.
