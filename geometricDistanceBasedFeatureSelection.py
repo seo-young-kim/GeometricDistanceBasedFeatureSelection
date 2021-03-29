@@ -9,7 +9,7 @@ import pandas as pd
 
 
 #함수 1. Sequential Forward Selection with gdbfs
-def GDB_SFS(df,target):
+def fit(df,target):
     
     # 단계별 선택되는 feature와 gdfs값 list []
     gdfs_by_feature = []
