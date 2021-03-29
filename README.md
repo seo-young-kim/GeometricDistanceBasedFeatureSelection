@@ -1,4 +1,4 @@
-# GeometricDistanceBasedFeatureSelection
+# Implementation of Geometric Distance Based Feature Selection
 It is a code that uses geometry measers to evaluate Feature subsets and to select optimal Feature subsets based on them.  
 Feature subset's evaluation implements the 'Feature selection based on geometric distance for high-dimensional data.' introduced in the paper.  
 __It can be used through 'pip install gdbfs'.  
