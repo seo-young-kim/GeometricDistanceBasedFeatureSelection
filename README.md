@@ -8,6 +8,8 @@ This page provides a brief description of the techniques.
 Reference 'Lee, J. H., & Oh, S. Y. (2016).
 Feature selection based on geometric distance for high-dimensional data. Electronics Letters, 52(6), 473-475.'.  
 
+This technique uses the distance between classification classes. So it can only be applied to classification problems.
+
 ## Distance measurement method of Feature subset
 The measurement for Feature subsets is multiplied by two geometric distances.
 
