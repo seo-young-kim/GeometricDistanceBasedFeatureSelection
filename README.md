@@ -1,3 +1,5 @@
 # GeometricDistanceBasedFeatureSelection
-
-https://www.notion.so/Geomteric-Distance-Based-Feature-Selection-with-SFS-090177615f134b82a1e011ef42470977
+This is the code that implements the paper.
+It can be used through 'pip install gdbfs'.
+Please refer to the Repository 'https://github.com/seo-young-kim/GDBFS_deploy' for details.
+This page provides a brief description of the techniques.
