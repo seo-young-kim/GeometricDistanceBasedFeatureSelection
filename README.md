@@ -5,7 +5,7 @@ __It can be used through 'pip install gdbfs'.
 Please refer to the Repository 'https://github.com/seo-young-kim/GDBFS_deploy' for details.__  
 This page provides a brief description of the techniques.  
 
-* Reference 'Lee, J. H., & Oh, S. Y. (2016).
+Reference 'Lee, J. H., & Oh, S. Y. (2016).
 Feature selection based on geometric distance for high-dimensional data. Electronics Letters, 52(6), 473-475.'.  
 
 ## Distance measurement method of Feature subset
