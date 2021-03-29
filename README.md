@@ -27,5 +27,5 @@ Therefore, it is used as a second measurement.
 ## Implementation with Sequential Forward Selection
 Through Sequential Forward selection, we can selects feature subsets with maximum gdbfs value.  
 
-![SFS](https://user-images.githubusercontent.com/49013650/110815888-2f196780-82ce-11eb-8338-04a5195b42ea.png)
-Sequential forward welection from : https://www.cc.gatech.edu/~bboots3/CS4641-Fall2018/Lecture16/16_FeatureSelection.pdf
+![SFS](https://user-images.githubusercontent.com/49013650/110815888-2f196780-82ce-11eb-8338-04a5195b42ea.png)  
+Figure 3. Sequential forward selection from : https://www.cc.gatech.edu/~bboots3/CS4641-Fall2018/Lecture16/16_FeatureSelection.pdf
