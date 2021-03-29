@@ -9,16 +9,17 @@ Reference 'Lee, J. H., & Oh, S. Y. (2016).
 Feature selection based on geometric distance for high-dimensional data. Electronics Letters, 52(6), 473-475.'.  
 
 ## Distance measurement method of Feature subset
-Feature subset Xq에 대한 측정 S(X_Q)는 두가지 기하학 거리를 곱해 이루어 진다.  
-$ S_gdfs(X_Q) = D_B(X_Q) * E $
-### Inter-class distanc
-첫번째로 해당 Feature subspace에서의 class 간 거리에 의해 이루어진다.  
-그림을 참고했을때 클래스 중심간 거리가 멀수록, 그리고 클래스 내부분산이 작을 수록 쉽게 분류되리라 예쌍된다.
-따라서 클래스 중심간 거리 - 클래스 내부분산을 고려한 값을 측정해 measure로 사용한다.
+The measurement for Feature subsets is multiplied by two geometric distances.
 
-### Eveness of Inter-class distances
-class의 거리들이 균등할 수록, 쉽게 분류되리라 예상할 수 있다.
-따라서 균등도를 측정한다.
+### 1. Inter-class distance
+First, the distance between classes from the corresponding Feature subspace is achieved.  
+When referenced in the figure1, the further the distance between the center of the class and the smaller the intracranial partiality, the easier it will be classified.  
+Therefore, (the distance between the center of the class) - (class Internal Variance) is used as measurement.
+
+### 2. Eveness of Inter-class distances
+The more equal the distance between classes in the Feature subspace, the easier it can be expected to be classified.
+Therefore, it is used as a second measurement.
 
 ## Implementation with Sequential Forward Selection
+Through Sequential Forward selection, we can selects feature subsets with maximum gdbfs value.
 
