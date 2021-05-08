@@ -1,8 +1,8 @@
 # Implementation of Geometric Distance Based Feature Selection
 It is a code that uses geometry measers to evaluate Feature subsets and to select optimal Feature subsets based on them.  
 Feature subset's evaluation implements the 'Feature selection based on geometric distance for high-dimensional data.' introduced in the paper.  
-This method is a hybrid method that combines filter and wrapper.
-Therefore, even if this technique is not applied as it is, it would be a good reference for those who want to implement the hybrid method.
+This method is a hybrid method that combines filter and wrapper.  
+Therefore, even if this technique is not applied as it is, it would be a good reference for those who want to implement the hybrid method.  
 __It can be used through 'pip install gdbfs'.  
 Please refer to the Repository 'https://github.com/seo-young-kim/GDBFS_deploy' for details.__  
 This page provides a brief description of the techniques.  
